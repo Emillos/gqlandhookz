@@ -4,12 +4,15 @@
 /node_modules
 /.pnp
 .pnp.js
+/gql-server/node_modules
 
 # testing
 /coverage
 
 # production
 /build
+bundle.js
+bundle.js.map
 
 # misc
 .DS_Store
